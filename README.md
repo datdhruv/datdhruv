@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include python, C, Linux and burgers 🍔 
+I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include python, C, Linux and Archery 🏹
 
 <!--
 **datDhruvJain/datdhruvjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
