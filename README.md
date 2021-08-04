@@ -6,6 +6,11 @@ I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include Auge
 - 📫 How to reach me: dhruvjainstuff@gmail.com
 - ⚡ Fun fact: I am a major Chai Addict ☕️
 
+- Projects I have worked on:
+  - [Cryptoker](github.com/datdhruvjain/cryptoker) a command line tool to get Cryptocurrency Exchange rates
+  - [A Home Automation System](github.com/datDhruvJain/Home-Automation)
+  - [GoBlockchain](https://github.com/datDhruvJain/GoBlockchain) an Implementation of blockchain in GOLang
+
 
 <!--
 **datDhruvJain/datdhruvjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
