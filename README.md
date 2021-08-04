@@ -3,7 +3,7 @@
 I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include Augemented Reality 🔮, Python 🐍, Linux 🐧 and Archery 🏹
 
 - 👨‍💻 I’m currently learning my way around Unity-3D
-- 📫 How to reach me: dhruvjainstuff@gmail.com
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv-jain-a309501a0)
 - ⚡ Fun fact: I am a major Chai Addict ☕️
 - 📚 I love reading books. Some of my favorites are Animal Farm, 1984 and Sapiens
 
