@@ -5,10 +5,11 @@ I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include Auge
 - 👨‍💻 I’m currently learning my way around Unity-3D
 - 📫 How to reach me: dhruvjainstuff@gmail.com
 - ⚡ Fun fact: I am a major Chai Addict ☕️
+- 📚 I love reading books. Some of my favorites are Animal Farm, 1984 and Sapiens
 
-- Projects I have worked on:
-  - [Cryptoker](github.com/datdhruvjain/cryptoker) a command line tool to get Cryptocurrency Exchange rates
-  - [A Home Automation System](github.com/datDhruvJain/Home-Automation)
+- 🖥 Projects I have worked on:
+  - [Cryptoker](https://github.com/datdhruvjain/cryptoker) a command line tool to get Cryptocurrency Exchange rates
+  - [A Home Automation System](https://github.com/datDhruvJain/Home-Automation)
   - [GoBlockchain](https://github.com/datDhruvJain/GoBlockchain) an Implementation of blockchain in GOLang
 
 
