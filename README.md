@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include Blockchain, python, C, Linux and Archery 🏹
+I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include Augemented Reality 🔮, Python 🐍, Linux 🐧 and Archery 🏹
+
+- 👨‍💻 I’m currently learning my way around Unity-3D
+- 📫 How to reach me: dhruvjainstuff@gmail.com
+- ⚡ Fun fact: I am a major Chai ☕️ Addict
+
 
 <!--
 **datDhruvJain/datdhruvjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
