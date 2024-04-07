@@ -9,9 +9,9 @@
 ```                                                                 
 ### Hi there 👋
 
-I am Dhruv Jain, a C.S undergrad at BITS Pilani, Dubai. My interets include Augemented Reality 🔮, Python 🐍, Linux 🐧 and Archery 🏹
+I am Dhruv Jain, a software engineer with experience in the Energy Industry. My interets include building Homelabs 💿, Linux Systems🐧 and Archery 🏹
 
-- 👨‍💻 I’m currently learning my way around Unity-3D
+- 👨‍💻 I’m currently learning Rust, C# and Microservices
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhruv-jain-a309501a0)
 - ⚡ Fun fact: I am a major Chai Addict ☕️
 
